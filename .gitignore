@@ -1,0 +1,14 @@
+Dominio/bin/
+Dominio/obj/
+Infraestructura/bin/
+Infraestructura/obj/
+Logica/bin/
+Logica/obj/
+ProyectoWeb.sln
+ProyectoWeb/bin/
+ProyectoWeb/obj/
+WebForms/bin/
+WebForms/obj/
+WebService/bin/
+*/obj
+packages/
